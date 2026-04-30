@@ -35,7 +35,7 @@ I enjoy building clean, scalable infrastructure that powers intelligent applicat
 
 ### GitHub Stats
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DivyanHirasen&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=1A1A1A&text_color=444444&icon_color=1A1A1A&bg_color=ffffff" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DivyanHirasen&show_icons=true&theme=default&hide_border=true&title_color=1A1A1A&text_color=444444&icon_color=1A1A1A&bg_color=ffffff" />
 &nbsp;&nbsp;
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanHirasen&layout=compact&theme=default&hide_border=true&title_color=1A1A1A&text_color=444444&bg_color=ffffff" />
 
