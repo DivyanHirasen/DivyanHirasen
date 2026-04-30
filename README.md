@@ -64,7 +64,7 @@ divyan = {
 
 ### GitHub Stats
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=DivyanHirasen&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=DivyanHirasen&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 &nbsp;
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanHirasen&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" />
 
