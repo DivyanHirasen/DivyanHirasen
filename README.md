@@ -39,7 +39,8 @@ divyan = {
 | 2021 | Skeletal Age Estimation from Hand Radiographs Using Ensemble Deep Learning | MCPR |
 | 2020 | Melanoma Skin Cancer Classification Using Transfer Learning | ICCCI |
 | 2020 | Macroscopic Skin Lesion Segmentation Using GrabCut | ICCCI |
-| 2019 | Meta-Heuristic Optimization for 0–1 Knapsack Problem | IEEE Access |
+| 2019 | A Comparative Study of Meta-Heuristic Optimization Algorithms for the 0–1 Knapsack Problem | IEEE Access |
+| 2019 | Skeletal Age Estimation from Hand Radiographs Using Transfer Learning | MIKE |
 
 ---
 
